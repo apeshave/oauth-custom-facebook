@@ -25,4 +25,4 @@ There are very good examples as part of the [Spring Security OAuth Source](https
 , which is using a lot of XML that makes it hard to read.
 
 ### Josh's REST Stack
-The [OAuth Project](https://github.com/joshlong/the-spring-rest-stack/tree/master/code/web/oauth) is helpful, but also is not usable as it is.
+Josh's awesome [OAuth Project](https://github.com/joshlong/the-spring-rest-stack/tree/master/code/web/oauth) repo has most of it as well.
